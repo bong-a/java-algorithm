@@ -4,8 +4,8 @@ Q01/Q01_01/Main.java
  Q01.Q01_01.Main
 Q02/Q02_11/Main.java
  Q02.Q02_11.Main
-Q03/Q03_02/Main.java
- Q03.Q03_02.Main
+Q01/Q01_05/Main.java
+ Q01.Q01_05.Main
 Q02/Q02_05/Main.java
  Q02.Q02_05.Main
 Q01/Q01_08/Main.java
@@ -50,5 +50,29 @@ Q01/Q01_11/Main.java
  Q01.Q01_11.Main
 Q02/Q02_10/Main.java
  Q02.Q02_10.Main
-Q01/Q01_05/Main.java
- Q01.Q01_05.Main
+Q04/Q04_03/Main.java
+ Q04.Q04_03.Main
+Q04/Q04_04/Main.java
+ Q04.Q04_04.Main
+Q04/Q04_02/Main.java
+ Q04.Q04_02.Main
+Q04/Q04_01/Main.java
+ Q04.Q04_01.Main
+Q04/Q04_05/Main.java
+ Q04.Q04_05.Main
+Q03/Q03_02/Main.java
+ Q03.Q03_02.Main
+Q03/Q03_03/Main.java
+ Q03.Q03_03.Main
+Q05/Q05_03/Main.java
+ Q05.Q05_03.Main
+Q05/Q05_02/Main.java
+ Q05.Q05_02.Main
+Q03/Q03_04/Main.java
+ Q03.Q03_04.Main
+Q03/Q03_06/Main.java
+ Q03.Q03_06.Main
+Q03/Q03_05/Main.java
+ Q03.Q03_05.Main
+Q05/Q05_01/Main.java
+ Q05.Q05_01.Main
