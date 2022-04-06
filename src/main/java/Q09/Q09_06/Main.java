@@ -18,8 +18,10 @@ public class Main {
     public static void union(int a, int b) {
         int fa = find(a);
         int fb = find(b);
-        if (fa != fb)
+        if (fa != fb) {
             unf[fa] = fb;
+            System.out.println("unf[" + fa + "]=" + fb);
+        }
     }
 
     public static void main(String[] args) {
@@ -41,6 +43,8 @@ public class Main {
         for (Edge edge : arr) {
             int fv1 = find(edge.v1);
             int fv2 = find(edge.v2);
+            System.out.println(edge.v1 + "->" + edge.v2);
+            System.out.println("fv1=" + fv1 + ",fv2=" + fv2);
             if (fv1 != fv2) {
                 answer += edge.cost;
                 cnt++;
