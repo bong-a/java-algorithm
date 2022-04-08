@@ -1,4 +1,4 @@
-package tree;
+package algorithm.tree;
 
 public class Node<K,V> {
     private K key;

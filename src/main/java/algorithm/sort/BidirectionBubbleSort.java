@@ -1,4 +1,4 @@
-package sort;
+package algorithm.sort;
 
 public class BidirectionBubbleSort {
     // = 칵테일 정렬(cocktail sort)

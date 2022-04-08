@@ -1,4 +1,4 @@
-package string;
+package algorithm.string;
 
 public class BmMatch {
 

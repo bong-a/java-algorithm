@@ -1,4 +1,4 @@
-package sort;
+package algorithm.sort;
 
 public class ShellInsertSort {
     public static void main(String[] args) {
